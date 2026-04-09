@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+yfinance
+huggingface-hub
+pandas
+requests
