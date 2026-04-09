@@ -2,6 +2,23 @@
 
 RealTicker is an AI-powered financial dashboard built for modern investors. It synthesizes real-time market data alongside an integrated AI Analyst to provide actionable metrics on trend and volatility.
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/dashboard.png" width="800" alt="Dashboard View">
+  <p><em>Real-Time Top Performers Dashboard</em></p>
+</div>
+
+<div align="center">
+  <img src="screenshots/stock_view.png" width="800" alt="Stock Detail View">
+  <p><em>6-Month Historical Chart & Analytics</em></p>
+</div>
+
+<div align="center">
+  <img src="screenshots/ai_insights.png" width="800" alt="Generated AI Insights">
+  <p><em>HuggingFace Zephyr-7B generated Investment Strategy</em></p>
+</div>
+
 ## 🏗️ Architecture
 
 ```mermaid
