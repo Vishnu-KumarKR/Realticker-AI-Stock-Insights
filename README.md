@@ -5,17 +5,20 @@ RealTicker is an AI-powered financial dashboard built for modern investors. It s
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/dashboard.png" width="800" alt="Dashboard View">
+  <img src="<img width="1913" height="867" alt="Screenshot 2026-04-09 144538" src="https://github.com/user-attachments/assets/bd36d785-fde0-45ff-879b-255caec96791" />
+" width="800" alt="Dashboard View">
   <p><em>Real-Time Top Performers Dashboard</em></p>
 </div>
 
 <div align="center">
-  <img src="screenshots/stock_view.png" width="800" alt="Stock Detail View">
+  <img src="<img width="1915" height="879" alt="Screenshot 2026-04-09 144604" src="https://github.com/user-attachments/assets/18713521-953d-49f5-b938-4c1b4aad1044" />
+" width="800" alt="Stock Detail View">
   <p><em>6-Month Historical Chart & Analytics</em></p>
 </div>
 
 <div align="center">
-  <img src="screenshots/ai_insights.png" width="800" alt="Generated AI Insights">
+  <img src="<img width="1918" height="869" alt="Screenshot 2026-04-09 144622" src="https://github.com/user-attachments/assets/8ee82db5-395c-47a9-89c9-b7bf30bf0841" />
+" width="800" alt="Generated AI Insights">
   <p><em>HuggingFace Zephyr-7B generated Investment Strategy</em></p>
 </div>
 
